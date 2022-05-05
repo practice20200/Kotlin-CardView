@@ -1,7 +1,7 @@
 package com.test.myapplication
 
 var bookList = mutableListOf<Book>()
-var Book_ID_EXTRA = "bookExtra"
+var Book_ID_EXTRA = "bookExtra1"
 
 class Book {
     var cover: Int,
